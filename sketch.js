@@ -4,4 +4,5 @@ function setup() {
 
 function draw() {
   background(220);
+  line(width/2, 0, width/2, height)
 }
